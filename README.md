@@ -1,1 +1,3 @@
 # child-mortality-worldwide
+
+Ao redor do mundo, mortalidade infantil ainda é um problema sério e recorrente. Sua redução faz parte dos objetivos de Desenvolvimento do Milênio das Nações Unidas e atinge principalmente países mais pobres. O objetivo deste trabalho é explorar os dados relacionado a morte de crianças ao redor do mundo e implementar  modelos de regressão para prever a taxa de mortalidade infantil de diversos países.
